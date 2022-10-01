@@ -1,7 +1,7 @@
 # egypt travel guide
 A guide to traveling in Egypt; where to go, what to eat, how to get around, etc. Listed are pictures and links for each item.
 ## essential travel spots
-- 	[National Museum of Egyptian Civilization](https://nmec.gov.eg/)
+- [National Museum of Egyptian Civilization](https://nmec.gov.eg/)
   - Here you can learn all about Egyptian culture through the years; from the Islamic takeover is 639 AD, to the dynastic rule (where you can see the actual mummies of the pharaohs!).
  	![NMEC](nmec-front.jpeg)
 - The Great Pyramids of Giza and the Sphinx
