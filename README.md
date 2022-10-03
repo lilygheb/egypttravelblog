@@ -12,7 +12,8 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
 - City of Marina El Alamein - North Coast
   - This city is right on the coast of the Mediterranean Sea. It is probably one of the most beautiful places in Egypt. There are beaches, restuarants, and you can rent jet skis and boats to go out to the beautfiul sea. 
 - City of Alexandria
-  - The busy streets and tall skyscrapers make Alexandria one of the more modern cities in Egypt. There are great restaurants, shops in the streets, and lots of activities. You can go to the beach, visit the Lighthouse of Alexandria, and go to many different museums. 
+  - The busy streets and tall skyscrapers make Alexandria one of the more modern cities in Egypt. There are great restaurants, shops in the streets, and lots of activities. You can go to the beach, visit the Lighthouse of Alexandria, and go to many different museums.
+  ![alexandria cars](alexandria cars.HEIC)
 - Khan el Khalili
   - This famous bazaar is probably what you think of when you think of the streets of Egypt. Venders selling spices, trinkets, and cloth line the streets. You definitely want to not bring anything too valuable as pickpocketing is common in this busy area. It would also be a good idea to get a local guide who can bargain for you. But overall, this is a great place to get souvenirs and traditional Egyptian clothes. 
 - Valley of the Kings
