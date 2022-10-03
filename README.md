@@ -41,4 +41,4 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
 - A lot of the food in Egypt (especially fresh fruits/vegetables) can cause stomach problems, so taking a stomach medicine before each meal really helps (ex. pepto bismol). 
 - If you can find someone, it is very useful to have a local Egyptian as a guide, or at least knows the city enough to take you to all the best places, hook you up with the best tour guides, find the best restaurants, bargain for you, etc. 
 
-## enjoy your trip!
+# enjoy your trip!
