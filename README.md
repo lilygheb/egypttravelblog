@@ -3,6 +3,7 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
 ## essential travel spots
 - [National Museum of Egyptian Civilization](https://nmec.gov.eg/)
   - Here you can learn all about Egyptian culture through the years; from the Islamic takeover is 639 AD, to the dynastic rule (where you can see the actual mummies of the pharaohs!).
+<br><img src="outside NMEC.jpg" alt="outside NMEC" width="300"/><img src="inside NMEC.jpg" alt="inside NMEC" width="200"/></br>
 - The Great Pyramids of Giza and the Sphinx
   - This is an obvious one but the pyramids and the sphinx are truly a sight to see! You can even ride on camels and go inside one of the pyramids (although going iside is pretty underwhelming). 
   <br><img src="one-pyramid.jpg" alt="one pyramid" width="200"/><img src="pyramids close.jpg" alt="pyramids close" width="300"/><img src="sphinx.jpg" alt="sphinx" width="300"/></br>
@@ -14,7 +15,7 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
  <br><img src="marina city.jpg" alt="marina city" width="200"/><img src="marina water.jpg" alt="marina water" width="200"/><img src="marina beach house.jpg" alt="marina beach house" width="200"/></br>
 - City of Alexandria
   - The busy streets and tall skyscrapers make Alexandria one of the more modern cities in Egypt. There are great restaurants, shops in the streets, and lots of activities. You can go to the beach, visit the Lighthouse of Alexandria, and go to many different museums.
-<br><img src="alexandria cars.jpg" alt="alexandria cars" width="300"/></br>
+<br><img src="alexandria cars.jpg" alt="alexandria cars" width="300"/><img src="alexandria view.jpg" alt="alexandria view" width="300"/></br>
 - Khan el Khalili
   - This famous bazaar is probably what you think of when you think of the streets of Egypt. Venders selling spices, trinkets, and cloth line the streets. You definitely want to not bring anything too valuable as pickpocketing is common in this busy area. It would also be a good idea to get a local guide who can bargain for you. But overall, this is a great place to get souvenirs and traditional Egyptian clothes. 
 - Mokattam Mountain 
@@ -28,6 +29,7 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
 <br><img src="abou tarek.jpg" alt="abou tarek" width="300"/></br>
 - 9 Pyramids Lounge
   - This restaurant with a great view of the pyramids also serves great breakfast. The two options are either the Continental Breakfast or the Egyptian Breakfast, but they both come with so much food. You can also get a variety of fresh juices, appetizers, and soups. 
+<br><img src="fatir meshaltet.jpg" alt="fatir meshaltet" width="200"/></br>
 - Balbaa
   - This family style restaurant serves traditional shawarma, beef and chicken kababs, and a variety of sauces and dips, along with traditional Egyptian-style pita bread (baladi). 
 - Saber
