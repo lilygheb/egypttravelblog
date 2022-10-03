@@ -29,7 +29,7 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
 <br><img src="abou tarek.jpg" alt="abou tarek" width="300"/></br>
 - 9 Pyramids Lounge
   - This restaurant with a great view of the pyramids also serves great breakfast. The two options are either the Continental Breakfast or the Egyptian Breakfast, but they both come with so much food. You can also get a variety of fresh juices, appetizers, and soups. 
-<br><img src="fatir meshaltet.jpg" alt="fatir meshaltet" width="200"/></br>
+<br><img src="9 pyramids lounge.jpg" alt="9 pyramids lounge" width="400"/><img src="fatir meshaltet.jpg" alt="fatir meshaltet" width="225"/></br>
 - Balbaa
   - This family style restaurant serves traditional shawarma, beef and chicken kababs, and a variety of sauces and dips, along with traditional Egyptian-style pita bread (baladi). 
 - Saber
@@ -40,4 +40,5 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
 - Know the price of something (from locals or research) before buying something. For example if you know the price of a bottle of water, instead of asking for how much it is, give the vender the amount of money and ask for a bottle of water (they will rack up prices for tourists).
 - A lot of the food in Egypt (especially fresh fruits/vegetables) can cause stomach problems, so taking a stomach medicine before each meal really helps (ex. pepto bismol). 
 - If you can find someone, it is very useful to have a local Egyptian as a guide, or at least knows the city enough to take you to all the best places, hook you up with the best tour guides, find the best restaurants, bargain for you, etc. 
+
 ## enjoy your trip!
