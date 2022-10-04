@@ -5,7 +5,7 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
   - Here you can learn all about Egyptian culture through the years; from the Islamic takeover is 639 AD, to the dynastic rule (where you can see the actual mummies of the pharaohs!).
 <br><img src="outside NMEC.jpg" alt="outside NMEC" width="300"/><img src="inside NMEC.jpg" alt="inside NMEC" width="200"/><br>
 - The Great Pyramids of Giza and the Sphinx
-  - This is an obvious one but the pyramids and the sphinx are truly a sight to see! You can even ride on camels and go inside one of the pyramids (although going iside is pretty underwhelming). <br>
+  - This is an obvious one but the pyramids and the sphinx are truly a sight to see! You can even ride on camels and go inside one of the pyramids (although going inside is pretty underwhelming). <br>
 <img src="one-pyramid.jpg" alt="one pyramid" width="200"/><img src="pyramids close.jpg" alt="pyramids close" width="300"/><img src="sphinx.jpg" alt="sphinx" width="300"/><br>
 - City of El Gouna: [The Three Corners Rihana Resort](https://hotels.elgouna.com/hotel/the-three-corners-rihana-resort/)
   - The city of El Gouna is right on the coast of the Red Sea. The Rihana Resort is all-inclusive with a breakfast, lunch, and dinner buffet. You can also take a shuttle out to the Red Sea to snorkel. 
