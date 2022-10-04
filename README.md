@@ -20,9 +20,11 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
   - This famous bazaar is probably what you think of when you think of the streets of Egypt. Venders selling spices, trinkets, and cloth line the streets. You definitely want to not bring anything too valuable as pickpocketing is common in this busy area. It would also be a good idea to get a local guide who can bargain for you. But overall, this is a great place to get souvenirs and traditional Egyptian clothes. 
 - Mokattam Mountain 
   - This is a famous mountain in Egypt that was carved to be made into a church. A miracle of moving the mountain was said to happen here, so they decided to carve a huge church into the mountainside.
-<br><img src="mokattam inside.jpg" alt="mokattam inside" width="400"/><img src="mokattam looking out.jpg" alt="mokattam looking out" width="400"/><img src="mokattam looking in.jpg" alt="mokattam looking in" width="200"/>
+<br><img src="mokattam inside.jpg" alt="mokattam inside" width="500"/>
+<br><img src="mokattam looking out.jpg" alt="mokattam looking out" width="500"/>
+<br><img src="mokattam looking in.jpg" alt="mokattam looking in" width="200"/>
 - Coptic Churches
-  - Many people do not know about the many beautiful Coptic Churches in Egypt but there are so many that it's hard to pick just a few. Some famous ones include the Church of the Virgin Mary in Zeitoun, the new Cathedral of the Nativity of Christ, and the Saint Pishoy Monastery. 
+  - Many people do not know about the many beautiful Coptic Churches in Egypt but there are so many that it's hard to pick just a few. Some famous ones include the Saint Mary's Church in Maadi, the new Cathedral of the Nativity of Christ, and the Saint Pishoy Monastery. <br>
 ## restaurants
 - Abou Tarek 
   - Koshary is Egypt's national dish and Abou Tarek arguably serves the best koshary. Koshary is made with chickpeas, lentils, pasta, and rice topped with a spicy tomato sauce, garlic oil, and fried onions. It is mostly sold in small carts, and the original owner's koshary cart got so popular it was made into a restaurant. 
@@ -33,7 +35,7 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
 - Balbaa
   - This family style restaurant serves traditional shawarma, beef and chicken kababs, and a variety of sauces and dips, along with traditional Egyptian-style pita bread (baladi). 
 - Saber
-  - 'Roz bel laban' or rice with milk is a sweet dessert that Saber is known for, along with it's original toppings of mestika (special type of pistachio) ice cream and walnuts. 
+  - 'Roz bel laban' or rice with milk is a sweet dessert that Saber is known for, along with it's original toppings of mestika (special type of pistachio) ice cream and walnuts. <br>
 ## other tips
 - Bring your own toilet paper, hand sanitizer, and a small bag for trash
   - In most restrooms, they charge you for toilet paper; either that or the workers are expecting a tip. You also will want to bring hand sanitizers or wipes and a separate bag for trash because it can be dirty in some places.
