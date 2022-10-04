@@ -24,7 +24,10 @@ A guide to traveling in Egypt; where to go, what to eat, how to get around, etc.
 <br><img src="mokattam looking out.jpg" alt="mokattam looking out" width="500"/>
 <br><img src="mokattam looking in.jpg" alt="mokattam looking in" width="200"/>
 - Coptic Churches
-  - Many people do not know about the many beautiful Coptic Churches in Egypt but there are so many that it's hard to pick just a few. Some famous ones include the Saint Mary's Church in Maadi, the new Cathedral of the Nativity of Christ, and the Saint Pishoy Monastery. <br>
+  - Many people do not know about the many beautiful Coptic Churches in Egypt but there are so many that it's hard to pick just a few. Some famous ones include the Saint Mary's Church in Maadi, the new Cathedral of the Nativity of Christ, and the Saint Pishoy Monastery.
+<br><img src="saint_mary_maadi_inside.jpeg" alt="saint_mary_maadi_inside" width="300"/><img src="saint_mary_maadi_nile_view.jpeg" alt="saint_mary_maadi_nile_view" width="200"/>
+<br><img src="new_cathedral.jpeg" alt="new_cathedral" width="300"/>
+<br><img src="saint_pishoy_monastery.jpeg" alt="saint_pishoy_monastaery" width="300"/>
 
 ## restaurants
 - Abou Tarek 
